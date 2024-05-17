@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">challenge_ch5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_overview">Movie Overview</string>
+    <string name="tvWelcome">Welcome, Username</string>
+    <string name="tvLogout">Logout</string>
+    <string name="page_title">Home</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="registerHere">Don\'t Have an Account yet? Register here</string>
+    <string name="register">Register</string>
+    <string name="PasswordConfirm">Confirm Your Password</string>
+    <string name="email">Email</string>
+    <string name="update">Update User</string>
+</resources>
